@@ -49,7 +49,7 @@ export default function Sports() {
                                                  <Col xs={6} md={4}>
                                                 <div className="custom-block-wrap" >
                                                     
-                                                    <img src={value.imageUrl} width='100%' height='250px'    />
+                                                    < img alt='image is not available' src={value.imageUrl} width='100%' height='250px'    />
                                                     <div className="custom-block">
                                                         <div className="custom-block-body"  style={{ height: "300px", overflow:"hidden" }}>
                                                             <h5>{value.title}</h5>

@@ -15,7 +15,7 @@ export default function Footer() {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-3 col-12 mb-4">
-                            <img src="images/logo1.png" style={{height:'250px' , width:'100%'} }  />
+                            < img alt='footerimg' src="images/logo1.png" style={{height:'250px' , width:'100%'} }  />
                         </div>
                         <div className="col-lg-4 col-md-6 col-12 mb-4">
                             <h5 className="site-footer-title mb-3">Quick Links</h5>
